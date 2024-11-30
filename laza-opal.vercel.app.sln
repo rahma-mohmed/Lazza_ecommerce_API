@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laza-opal.vercel.app", "laza-opal.vercel.app\laza-opal.vercel.app.csproj", "{18D56F10-E7A4-4E6A-AA57-7B66439B0F32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazza.opal.application", "lazza-opal-Application\Lazza.opal.application.csproj", "{27E760B5-6CC4-4385-9B09-544CE0997A2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazza.opal.core", "Lazza-opal-core\Lazza.opal.core.csproj", "{16D87006-07A8-4027-B3E3-A2DD6DB7EEB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lazza.opal.persistence", "Lazza-opal-persistence\Lazza.opal.persistence.csproj", "{8DD7F091-A74A-4008-A738-CC489E7E59DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D56F10-E7A4-4E6A-AA57-7B66439B0F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D56F10-E7A4-4E6A-AA57-7B66439B0F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D56F10-E7A4-4E6A-AA57-7B66439B0F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D56F10-E7A4-4E6A-AA57-7B66439B0F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E760B5-6CC4-4385-9B09-544CE0997A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E760B5-6CC4-4385-9B09-544CE0997A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E760B5-6CC4-4385-9B09-544CE0997A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E760B5-6CC4-4385-9B09-544CE0997A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D87006-07A8-4027-B3E3-A2DD6DB7EEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D87006-07A8-4027-B3E3-A2DD6DB7EEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D87006-07A8-4027-B3E3-A2DD6DB7EEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D87006-07A8-4027-B3E3-A2DD6DB7EEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD7F091-A74A-4008-A738-CC489E7E59DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD7F091-A74A-4008-A738-CC489E7E59DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD7F091-A74A-4008-A738-CC489E7E59DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD7F091-A74A-4008-A738-CC489E7E59DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C21F605-ABE6-4F07-ACF9-1379F95C4AA0}
+	EndGlobalSection
+EndGlobal

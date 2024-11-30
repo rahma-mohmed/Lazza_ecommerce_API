@@ -1,0 +1,6 @@
+@laza_opal.vercel.app_HostAddress = http://localhost:5153
+
+GET {{laza_opal.vercel.app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

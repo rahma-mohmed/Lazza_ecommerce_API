@@ -1,0 +1,13 @@
+﻿global using Lazza.opal.Application.DTO;
+global using Lazza.opal.application.IRepository;
+global using Lazza.opal.core.Model;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Lazza.opal.persistence.Data;
+global using Lazza.opal.persistence.Service.StripePaymentService;
+global using Lazza.opal.persistence.Repository;
+global using Lazza.opal.persistence.Service;
+global using System.Security.Claims;
+global using Lazza.opal.Application.Service;
